@@ -24,7 +24,7 @@ Sample Output
 2
 0
 
-解题思路：区间dp，dp[i][j]储存i~j中的最长公共子序列。
+解题思路：区间dp，dp[i][j]储存i最长公共子序列的长度。
 **/
 
 #include<iostream>
